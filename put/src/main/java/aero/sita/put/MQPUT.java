@@ -13,7 +13,7 @@ import com.ibm.mq.constants.MQConstants;
 
 public class MQPUT {
 
-	//
+	// All
     public static void main(String[] args) {
         // Create a connection to the queue manager
         Hashtable<String, Object> props = new Hashtable<String, Object>();
